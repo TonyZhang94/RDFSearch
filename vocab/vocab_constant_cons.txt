@@ -1,0 +1,10 @@
+高不高 cons
+好不好 cons
+快不快 cons
+最高得分 cons
+最高分数 cons
+销售额 cons
+销售数额 cons
+销售量 cons
+详细信息 cons
+详细资料 cons

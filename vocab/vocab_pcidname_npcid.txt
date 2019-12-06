@@ -1,0 +1,14 @@
+其他 npcid
+服务充值 npcid
+服装 npcid
+游戏数码 npcid
+家用电器 npcid
+美妆美饰 npcid
+母婴用品 npcid
+家居建材 npcid
+百货用品 npcid
+户外运动 npcid
+文化娱乐 npcid
+生活服务 npcid
+汽配摩托 npcid
+合并品类 npcid
